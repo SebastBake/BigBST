@@ -1,5 +1,6 @@
 # BigBST
-A C program to search big numerical CSV files using a multidimensional AVL tree
+A C program to search big numerical CSV files using a multidimensional AVL tree.
+
 Each column becomes a searchable AVL tree.
 
 ## Example usage
